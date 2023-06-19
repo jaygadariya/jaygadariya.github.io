@@ -79868,7 +79868,7 @@ A.N_.prototype={
 l(a){return"LocaleDataException: "+this.a},
 $icT:1}
 A.Np.prototype={
-Z(a){return new A.Au(B.Ls,"Jaimi's Wedding invitation",A.aEq(null,B.k8,null),null)}}
+Z(a){return new A.Au(B.Ls,"Jaimi's wedding invitation",A.aEq(null,B.k8,null),null)}}
 A.AK.prototype={
 aD(){return new A.Wa(new A.bk(null,t.Wc),B.k)}}
 A.Wa.prototype={
